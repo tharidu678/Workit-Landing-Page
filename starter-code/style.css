@@ -67,6 +67,15 @@
   right: 0%;
 }
 
+.pattern-1 {
+  display: none;
+  width: 270.29px;
+  height: 215.1px;
+  position: absolute;
+  left: -160px;
+  top: 100px;
+}
+
 /* ========== Features section ========== */
 .features {
   background-image: url(assets/images/bg-images/Rectangle-pink.svg);
@@ -138,6 +147,15 @@
 
 .founder-and-box {
   position: relative;
+}
+
+.pattern-3 {
+  display: none;
+  position: absolute;
+  width: 173px;
+  height: 137px;
+  right: 20px;
+  bottom: -60px;
 }
 
 /* ========== Footer section ========== */
@@ -225,6 +243,11 @@ footer .flex {
     bottom: 0;
     right: 0;
   }
+
+  .pattern-1,
+  .pattern-3 {
+    display: block;
+  }
 }
 
 @media (min-width: 1024px) {
@@ -276,6 +299,11 @@ footer .flex {
 
   footer {
     margin-top: 7rem;
+  }
+
+  .pattern-1 {
+    left: -100px;
+    top: 120px;
   }
 }
 
