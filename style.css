@@ -9,7 +9,7 @@
 }
 
 .bg-mobile {
-  background-image: url(assets/images/bg-images/Rectangle.svg);
+  background-image: url(starter-code/assets/images/bg-images/Rectangle.svg);
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -78,7 +78,7 @@
 
 /* ========== Features section ========== */
 .features {
-  background-image: url(assets/images/bg-images/Rectangle-pink.svg);
+  background-image: url(starter-code/assets/images/bg-images/Rectangle-pink.svg);
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -187,12 +187,12 @@ footer .flex {
   }
 
   .bg-mobile {
-    background-image: url(assets/images/bg-images/Rectangle-tab.svg);
+    background-image: url(starter-code/assets/images/bg-images/Rectangle-tab.svg);
     height: 540.24px;
   }
 
   .features {
-    background-image: url(assets/images/bg-images/Rectangle-pink-tab.svg);
+    background-image: url(starter-code/assets/images/bg-images/Rectangle-pink-tab.svg);
     height: 920.73px;
   }
 
@@ -256,12 +256,12 @@ footer .flex {
   }
 
   .bg-mobile {
-    background-image: url(assets/images/bg-images/Rectangle-desktop.svg);
+    background-image: url(starter-code/assets/images/bg-images/Rectangle-desktop.svg);
     height: 650px;
   }
 
   .features {
-    background-image: url(assets/images/bg-images/Rectangle-pink-desktop.svg);
+    background-image: url(starter-code/assets/images/bg-images/Rectangle-pink-desktop.svg);
     height: 960.71px;
   }
 
