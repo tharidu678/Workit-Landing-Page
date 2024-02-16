@@ -88,3 +88,9 @@ img {
 .icon {
   width: 20px;
 }
+
+.gray{
+  color: var(--gray-color);
+}
+
+
